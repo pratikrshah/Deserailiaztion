@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response id="40b16a9b:1419ef8d4ee:-185f">
+  <quotes>
+    <quote>
+      <ask>154.4500</ask>
+      <bid>153.7300</bid>
+      <chg>1.3900</chg>
+      <chg_sign>u</chg_sign>
+      <chg_t>1.3900</chg_t>
+      <exch>NYSE</exch>
+      <last>154.4400</last>
+      <pchg>0.908 %</pchg>
+      <symbol>GS</symbol>
+      <vl>3226851</vl>
+    </quote>
+    <quote>
+      <ask>486.4900</ask>
+      <bid>486.3900</bid>
+      <chg>5.6480</chg>
+      <chg_sign>u</chg_sign>
+      <chg_t>5.6480</chg_t>
+      <exch>NASD</exch>
+      <last>486.5880</last>
+      <pchg>1.174 %</pchg>
+      <symbol>AAPL</symbol>
+      <vl>10751873</vl>
+    </quote>
+  </quotes>
+</response>

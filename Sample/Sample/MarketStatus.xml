@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response id="-2d953936:14174bb0cf3:-5213">
+  <date>2013-10-01 12:01:55.532999</date>
+  <status>
+    <current>open</current>
+    <next>after</next>
+    <change_at>16:00:00</change_at>
+  </status>
+  <message>Market is open</message>
+  <unixtime>1380643315</unixtime>
+</response>
+
